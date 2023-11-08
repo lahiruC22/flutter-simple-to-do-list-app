@@ -1,2 +1,16 @@
-# flutter-simple-to-do-list-app
- This repository contains the source code for a simple to-do list application built using Flutter. The app allows users to create, read, update, and delete to-do items. It is a great project for beginners to learn Flutter and state management.
+# todolist_front
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
